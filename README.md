@@ -1,6 +1,6 @@
 
 
-# Credit Card Fraud Detection – Final Summary
+# Credit Card Fraud Detection
 
 ## Dataset Overview
 - Each row represents a credit card transaction.
